@@ -1,4 +1,4 @@
-#GreenReader
+# GreenReader
 
 A simple Python program to read data inside EU Green Pass
 
